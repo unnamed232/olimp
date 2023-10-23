@@ -512,7 +512,7 @@ nav{
 
 .portret{
     width: 783px;
-    height: 877px;
+    height: 970px;
 }
 
 .main{
@@ -525,6 +525,8 @@ nav{
 
 .name{
     font-size: 80px;
+    padding-bottom: 30px;
+    flex-direction: row;
 }
 
 footer{
@@ -557,3 +559,21 @@ footer{
     margin: 20px;
 }
 
+.intro{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    width: 199px;
+    height: 58px;
+}
+
+.memb{
+    color: #909090;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
